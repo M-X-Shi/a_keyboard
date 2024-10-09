@@ -1,0 +1,95 @@
+{
+  "uuid": "daf15c342695563fd5df9c8c73f73cb0",
+  "path": "Offline/sweet_spot_keyboard",
+  "name": "sweet_spot_keyboard",
+  "content": "",
+  "created_at": "2024-09-27 14:39:44",
+  "updated_at": "2024-09-27 14:39:44",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3ad735055fa7a850a5b0c886a45e82df",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a054407160044d2c84b47926000332c1": 55,
+        "99017c6138d34cb186d6fb742408cbf6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "凯华热插拨_IN4148",
+          55,
+          "凯华热插拨_IN4148",
+          "K0A,K00,K0B,K1A,K1B,K01,K02,K2A,K2B,K3A,K03,K04,K05,K06,K07,K08,K09,K10,K11,K12,K13,K14,K15,K16,K17,K18,K19,K20,K21,K22,K23,K24,K25,K26,K27,K28,K29,K30,K31,K32,K33,K34,K35,K36,K37,K38,K39,K41,K42,K43,K44,K46,K47,K48,K49",
+          {
+            "Manufacturer": "Kailh(凯华)",
+            "Manufacturer Part": "",
+            "Supplier Part": "C400228",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Citiclzy",
+            "spiceSymbolName": "凯华热插拨_IN4148 COPY",
+            "puuid": "c767d12a1db14893bab80e0378b0f285",
+            "uuid": "a054407160044d2c84b47926000332c1"
+          }
+        ],
+        [
+          "树莓派PICO",
+          1,
+          "树莓派PICO",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "frost",
+            "spiceSymbolName": "树莓派PICO",
+            "puuid": "337cb97080ca4993a57998b3810d328d",
+            "uuid": "99017c6138d34cb186d6fb742408cbf6"
+          }
+        ]
+      ],
+      "updateTime": 1726825114,
+      "createTime": 1715168236,
+      "histories": [],
+      "created_at": "2024-05-08 19:37:16",
+      "updated_at": "2024-09-20 17:38:34"
+    },
+    {
+      "uuid": "ea41db6d9ec7a9ce6c493a97cae9fc43",
+      "title": "PCB_qwerty",
+      "filename": "PCB_qwerty.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c767d12a1db14893bab80e0378b0f285": 55,
+        "337cb97080ca4993a57998b3810d328d": 1
+      },
+      "BOM": [],
+      "updateTime": 1726825541,
+      "createTime": 1715170967,
+      "histories": [],
+      "created_at": "2024-05-08 20:22:47",
+      "updated_at": "2024-09-20 17:45:41"
+    }
+  ],
+  "sort": [],
+  "title": "sweet_spot_keyboard",
+  "foldername": "sweet_spot_keyboard",
+  "schfilename": "sweet_spot_keyboard.json",
+  "schfilemtime": 1727419184887.681
+}
